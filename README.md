@@ -16,7 +16,7 @@ The current version does not support code to train your own model.
 3. Please **cite our publication [1]** if the plugin is useful to your work. You are supposed to include a citation of [1] when you present or publish results that based on this plugin.
 
 ## References:
-[1] Yichen Wu et al., "Three-dimensional propagation and time-reversal of fluorescence images" arXiv
+[1] Yichen Wu et al., "Three-dimensional propagation and time-reversal of fluorescence images" arXiv (2019)
 
 ## Release Note:
 v1.1: 01/30/3019, stable plugin release. 
