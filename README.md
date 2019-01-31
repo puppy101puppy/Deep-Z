@@ -11,10 +11,10 @@ Neural network learns fluorescence wave propagation and time-reversal to propaga
 The current version does not support code to train your own model
 
 
-## Disclaimer:
-1. For research and non-commercial use only. 
-2. 
-3. Please cite our publication [1] if this is helpful to your work. 
+## Condition of use:
+1. This plugin is intended for research and non-commercial use only. You will be free to use this software for research purposes, but you cannot transmit and distribute it without our permission. 
+2. We provide no warranties of any kind on this software and shall in no event be liable for damages of any kind in connection with the use and exploitation of this software. Your results may vary and can improve with our future release of this plug-in, but we do not guarantee the success of testing results.
+3. Please cite our publication [1] if the plugin is useful to your work. You are supposed to include a citation of [1] when you present or publish results that based on this plugin.
 
 
 ## References:
