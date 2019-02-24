@@ -3,8 +3,8 @@ Neural network learns fluorescence wave propagation and time-reversal to propaga
 ![Video](https://github.com/puppy101puppy/Deep-Z/blob/master/Stack.gif)
 
 ## Test a inference model
-Download the model and plug-in from google drive http://bit.ly/Deep-Z (download the whole folder, ~ 2 GB).
-Then follow the guide "User Guide_v1.1".
+Download the model and plug-in from google drive http://bit.ly/deep-z (download the whole folder, ~ 2 GB).
+Then follow the guide "User Guide_v1.2".
 The provided version is for use with FIJI/imageJ on CPU only. A ready-to-use FIJI app is also provided in the download
 
 ## Train your own model
@@ -21,3 +21,4 @@ The current version does not support code to train your own model.
 
 ## Release Note:
 v1.1: 01/30/3019, stable plugin release. 
+v1.2: 02/23/2019, stable plugin release. Added image intensity evaluation to compensate for illumination variances for user images.
