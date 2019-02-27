@@ -22,3 +22,4 @@ The current version does not support code to train your own model.
 ## Release Note:
 v1.1: 01/30/3019, stable plugin release. 
 v1.2: 02/23/2019, stable plugin release. Added image intensity evaluation to compensate for illumination variances for user images.
+v1.3: 02/26/2019, stable plugin release. Used triangle threshold to separate sample and background to compensate for sample sparsity variances for user images. 
